@@ -1,8 +1,8 @@
 # Cell2Arts
 This project uses CycleGAN to perform image to image translation and make a short artsy clip combining the [fluid motion of cell](https://drive.google.com/file/d/1BMKixrCCqmxqJJ6VJxF7zu1KJyetjE2w/view?usp=sharing) and aesthetic of abstract paintings. For example,
 
-![Image of Cell](https://documents.epfl.ch/groups/c/cv/cvlab-unit/www/data/%20ElectronMicroscopy_Hippocampus/training.tif)
-![Image of Painting]
+![Image of Cell](https://drive.google.com/file/d/1Bp8lvru82lhfA7tNFbfmYO4dI_jyWLCT/view?usp=sharing)
+![Image of Painting](https://drive.google.com/file/d/1DWtix0irf8lDC4v_tIA_5ia2XSGfHoas/view?usp=sharing)
 
 
 See an example [video clip](https://drive.google.com/file/d/1iBgTL_cu60GtlxfVSWXObw4hrxw4jjSH/view?usp=sharing). Please view in smaller window since the videos are generated using 256x256 pixels.
