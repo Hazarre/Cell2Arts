@@ -4,6 +4,8 @@ This project uses CycleGAN to perform image to image translation and make a shor
 ![Image of Cell](https://github.com/Hazarre/Cell2Arts/tree/master/image/cell.jpg)
 ![Image of Painting](https://github.com/Hazarre/Cell2Arts/tree/master/image/arts.jpg)
 
+![Image of Cell](https://drive.google.com/open?id=1Bp8lvru82lhfA7tNFbfmYO4dI_jyWLCT)
+![Image of Painting](https://drive.google.com/open?id=1DWtix0irf8lDC4v_tIA_5ia2XSGfHoas)
 
 See an example [video clip](https://drive.google.com/file/d/1iBgTL_cu60GtlxfVSWXObw4hrxw4jjSH/view?usp=sharing). Please view in smaller window since the videos are generated using 256x256 pixels.
 
