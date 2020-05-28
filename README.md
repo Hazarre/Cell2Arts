@@ -7,7 +7,7 @@ This project uses CycleGAN to perform image to image translation and make a shor
 ![Image of Cell](https://drive.google.com/open?id=1Bp8lvru82lhfA7tNFbfmYO4dI_jyWLCT)
 ![Image of Painting](https://drive.google.com/open?id=1DWtix0irf8lDC4v_tIA_5ia2XSGfHoas)
 
-See an example [video clip](https://drive.google.com/file/d/1iBgTL_cu60GtlxfVSWXObw4hrxw4jjSH/view?usp=sharing). Please view in smaller window since the videos are generated using 256x256 pixels.
+See an example [video clip](https://drive.google.com/file/d/17Fp8pUerYc1iNXWxBsFtNVMZCc22Z5Vm/view?usp=sharing). Please view in smaller window since the videos are generated using 256x256 pixels.
 
 See the [report](https://docs.google.com/document/d/1c-tMGg52UeaOi2xyilOuW7Vp3kLkTD1hvgQzjMHomK4/edit?usp=sharing) for project detials.
 
