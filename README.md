@@ -6,6 +6,8 @@ This project uses CycleGAN to perform image to image translation and make a shor
 
 
 
+The main code is in ```Cell2Arts.ipynb```. 
+
 Data source: 
 1. Cell Image Data(https://www.epfl.ch/labs/cvlab/data/data-em/).
 2. Abstract Arts is obtained from the Internet with Google Image Download(https://github.com/hardikvasa/google-images-download). 
