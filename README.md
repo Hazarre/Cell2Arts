@@ -3,7 +3,6 @@ This project uses CycleGAN to perform image to image translation and make a shor
 
 
 Cell Image           |  Abstract Art 
-:-------------------------:|:-------------------------:
 <img src="https://github.com/Hazarre/Cell2Arts/blob/master/image/cell.jpg" width="427" height="360"/> <img src="https://github.com/Hazarre/Cell2Arts/blob/master/image/arts.jpg" width="427" height="360"/>
 
 
